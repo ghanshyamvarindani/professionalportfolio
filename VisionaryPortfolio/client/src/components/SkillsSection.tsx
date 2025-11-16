@@ -19,6 +19,11 @@ export default function SkillsSection() {
       title: "Data Strategy",
       skills: ["Enterprise Architecture", "Data as a Product", "Strategic Roadmaps", "Value Realization", "Business Alignment"],
     },
+     {
+      icon: Brain,
+      title: "Generative AI Solutioning",
+      skills: ["MultiModal AI", "Voice Agent Platforms & Conversational AI", "RAG Architectures & Agentic AI", "GenAI Productization"],
+    },
     {
       icon: TrendingUp,
       title: "Analytics & Modernization",
